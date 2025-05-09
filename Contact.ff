@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Por favor, cite este repositório como segue:"
+title: "Protocolo CODA – Cognição Diagnóstica Simbólica por Congruência Estrutural"
+authors:
+  - family-names: Freire
+    given-names: Davi Chaves
+    affiliation: Autor Independente
+license: CC-BY-NC-ND-4.0
+url: https://codastructure.github.io
+version: "1.0"
+date-released: 2025-05-09
